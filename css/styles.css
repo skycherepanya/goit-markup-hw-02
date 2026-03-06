@@ -203,6 +203,10 @@ img {
 .footer {
     background-color: var(--navy-blue);
 }
+
+.footer-logo-accent {
+    color: var(--cloud);
+}
 .footer-logo {
     font-family: var(--second-family);
     font-weight: 700;
@@ -210,7 +214,7 @@ img {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--white);
+    color: var(--iris);
 }
 .footer-text {
     line-height: 1.5;
